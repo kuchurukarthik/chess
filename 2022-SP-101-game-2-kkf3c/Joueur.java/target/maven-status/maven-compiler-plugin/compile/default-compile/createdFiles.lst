@@ -1,0 +1,15 @@
+joueur\ServerEvent.class
+joueur\ErrorCode.class
+joueur\BaseAI.class
+games\chess\Constants.class
+JoueurJava.class
+games\chess\AI.class
+games\chess\GameState.class
+games\chess\Player.class
+joueur\Client.class
+joueur\GameManager.class
+joueur\BaseGame.class
+games\chess\Game.class
+joueur\BaseGameObject.class
+games\chess\GameObject.class
+joueur\ANSIColorCoder.class
